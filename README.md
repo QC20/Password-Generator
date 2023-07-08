@@ -32,16 +32,16 @@ Feel free to modify these variables to suit your specific requirements.
 Here's an example output of the script:
 
 $ python password_generator.py
-rT]c$6Pz0@7&i8LN
-g(uD+9Ek?4]Iv#QJ
-!3c}1S{y-Lj6$2uA
-5Y~!hP@m9s7b}C#B
-b4Xa3D5u#z)R]Qsn
-v^J0wF+1g$%l(2dM
-H9x{!LmZ[5G$@6wi
-7bOx]eG$r3}v&A1w
-p2K#dU7VzR3J5Q(A
-eF8#R@Nq4%mXp5tY
+- rT]c$6Pz0@7&i8LN
+- g(uD+9Ek?4]Iv#QJ
+- !3c}1S{y-Lj6$2uA
+- 5Y~!hP@m9s7b}C#B
+- b4Xa3D5u#z)R]Qsn
+- v^J0wF+1g$%l(2dM
+- H9x{!LmZ[5G$@6wi
+- 7bOx]eG$r3}v&A1w
+- p2K#dU7VzR3J5Q(A
+- eF8#R@Nq4%mXp5tY
 
 ## Contribution
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
