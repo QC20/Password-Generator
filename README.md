@@ -6,7 +6,7 @@ To use this script, follow the instructions below:
 
 1. Clone the repository to your local machine or download the ZIP file.
 
-git clone https://github.com/your-username/random-password-generator.git
+git clone https://github.com/QC20/password-generator.git
 
 
 
